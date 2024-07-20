@@ -63,7 +63,7 @@ if __name__ == "__main__":
     else:
         print("Failed to find the most similar compounds.")
 
-## OUTPUT
+## EXAMPLE OUTPUT
 # The two most similar compounds are at indices 11 and 14, with a similarity score of 0.7692307692307693. (radius = 0)
 # The two most similar compounds are at indices 11 and 14, with a similarity score of 0.6727272727272727. (radius = 1)
 # The two most similar compounds are at indices 11 and 14, with a similarity score of 0.5294117647058824. (radius = 2)
